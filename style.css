@@ -1,0 +1,34 @@
+.main1div{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main2div{
+    display: flex;
+    flex-direction: column;
+}
+
+.main3div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main4div{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main5div{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    
+
+}
